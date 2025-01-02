@@ -4,7 +4,7 @@
     "url": "https://www.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.picoscratch.de.ico",
     "slug": "picoscratch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 772,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2025-01-02": 0,
       "2024-11-22": 142,
       "2024-11-17": 63,
       "2024-11-09": 17,
